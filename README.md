@@ -2,20 +2,26 @@
 <h3 align="center">A physicist that likes developing software to solve physics problems.</h3>
 
 ## Lattice QCD Packages
+### Python
+For constructing operators:
+- [Finite Volume Groups](https://github.com/chrisculver/FiniteVolumeGroups)
+- [Correlation Matrix Manager](https://github.com/chrisculver/PyCorrelationMatrixManager)
+- [SU(4) Workflow](https://github.com/chrisculver/su4workflow)
+
+### C++
+For meson systems only [Correlation Matrix Manager](https://github.com/chrsiculver/CorrelationMatrixManager)
 
 ## Lattice Supersymmetry
 [WessZumino](https://github.com/chrisculver/WessZumino/)
 
-- 📫 How to reach me **chris.a.culver@gmail.com**
-
-- 📄 Check out my [resume](https://chrisculver.github.io/assets/files/ChrisCulverResume.pdf)
-
 ## Rust
-
 I made a small [quantum computing simulator](https://github.com/chrisculver/qc_simulator) while learning about Rust.
 
 
+
 <h3 align="left">Connect with me:</h3>
+- 📫 How to reach me **chris.a.culver@gmail.com**
+- 📄 Check out my [resume](https://chrisculver.github.io/assets/files/ChrisCulverResume.pdf)
 <p align="left">
 <a href="https://linkedin.com/in/drchrisculver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="drchrisculver" height="30" width="40" /></a>
 </p>
