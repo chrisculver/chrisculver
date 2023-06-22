@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
 <h3 align="center">A physicist that likes developing software to solve physics problems.</h3>
 
+This page is generally focused on the software side, see [my webpage](https://chrisculver.github.io/#about) for more information about the physics.
+
 ## Lattice QCD Packages
 ### Python
 For constructing operators:
@@ -19,12 +21,11 @@ I made a small [quantum computing simulator](https://github.com/chrisculver/qc_s
 
 
 
-<h3 align="left">Connect with me:</h3>
-- 📫 How to reach me **chris.a.culver@gmail.com**
-- 📄 Check out my [resume](https://chrisculver.github.io/assets/files/ChrisCulverResume.pdf)
-<p align="left">
-<a href="https://linkedin.com/in/drchrisculver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="drchrisculver" height="30" width="40" /></a>
-</p>
+<h1 align="center">Connect with me:</h1>
+- Email: **chris.a.culver@gmail.com**
+- [Resume](https://chrisculver.github.io/assets/files/ChrisCulverResume.pdf)
+- [LinkedIn](https://linkedin.com/in/drchrisculver)
+
 
 <h1 align="center">Languages and Tools 🛠</h1>
 <h3 align="center">Languages</h3>
