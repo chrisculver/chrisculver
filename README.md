@@ -1,31 +1,38 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
 <h3 align="center">A physicist that likes developing software to solve physics problems.</h3>
 
-If you are interested more in what these repositories are for, see [my webpage](https://chrisculver.github.io/#about) for more information about the physics.
+If you are interested more in what these repositories are for, see [my webpage](https://chrisculver.github.io/#about) for more information about the physics, or their READMEs/docs.
 
 ## Lattice QCD Packages
-### Python
-For constructing operators:
-- [Finite Volume Groups](https://github.com/chrisculver/FiniteVolumeGroups)
-- [Correlation Matrix Manager](https://github.com/chrisculver/PyCorrelationMatrixManager)
-- [SU(4) Workflow](https://github.com/chrisculver/su4workflow)
+For hadron spectroscopy projects I've developed   
 
-### C++
-For meson systems only [Correlation Matrix Manager](https://github.com/chrsiculver/CorrelationMatrixManager)
+- [SU(4) Workflow](https://github.com/chrisculver/su4workflow) - best place to start, high level usage of packages
+- [Correlation Matrix Manager](https://github.com/chrisculver/PyCorrelationMatrixManager) 
+- [Finite Volume Groups](https://github.com/chrisculver/FiniteVolumeGroups)
+- [Wick Contractions](https://github.com/chrisculver/WickContractions/)
+
+For a more optimized correlation matrix manager in C++ that is limited to multi-meson systems see [the original repo](https://github.com/chrsiculver/CorrelationMatrixManager).
+
+I've also helped with a hadron structure project, to evaluate [four point functions](https://github.com/chrisculver/4PointFunctions), to probe the response of hadrons to electric and magnetic fields.
 
 ## Lattice Supersymmetry
-[WessZumino](https://github.com/chrisculver/WessZumino/)
+I have applied quantum computing techniques to two different supersymmetric models.  The Wess-Zumino model also has a machine learning approach.
+
+- [Supersymmetric quantum mechanics in 0+1](https://github.com/chrisculver/SUSY_QuantumComputing)
+- [Wess Zumino model in 1+1](https://github.com/chrisculver/WessZumino/)
 
 ## Rust
 I made a small [quantum computing simulator](https://github.com/chrisculver/qc_simulator) while learning about Rust.
 
+## Godot
+I made [a game](https://github.com/chrisculver/LudumDare51) for Ludum Dare 51.  
 
 
 <h1 align="center">Connect with me:</h1>
+
 - Email: **chris.a.culver@gmail.com**
 - [Resume](https://chrisculver.github.io/assets/files/ChrisCulverResume.pdf)
 - [LinkedIn](https://linkedin.com/in/drchrisculver)
-
 
 <h1 align="center">Languages and Tools 🛠</h1>
 <h3 align="center">Languages</h3>
