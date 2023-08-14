@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
 <h3 align="center">A physicist that likes developing software to solve physics problems.</h3>
 
-If you are interested more in what these repositories are for, see [my webpage](https://chrisculver.github.io/#about) for more information about the physics, or their READMEs/docs.
+If you are interested in a physics introduction to what these repositories are for, see [my webpage](https://chrisculver.github.io/#about).
 
 ## Lattice QCD Packages
 For hadron spectroscopy projects I've developed   
