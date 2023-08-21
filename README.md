@@ -11,7 +11,7 @@ For hadron spectroscopy projects I've developed
 - [Finite Volume Groups](https://github.com/chrisculver/FiniteVolumeGroups)
 - [Wick Contractions](https://github.com/chrisculver/WickContractions/)
 
-For a more optimized correlation matrix manager in C++ that is limited to multi-meson systems see [the original repo](https://github.com/chrsiculver/CorrelationMatrixManager).
+For a more optimized correlation matrix manager in C++ that is limited to multi-meson systems see [the original repo](https://github.com/chrisculver/CorrelationMatrixManager).
 
 I've also helped with a hadron structure project, to evaluate [four point functions](https://github.com/chrisculver/4PointFunctions), to probe the response of hadrons to electric and magnetic fields.
 
