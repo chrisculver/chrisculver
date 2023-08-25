@@ -6,10 +6,11 @@ If you are interested in a physics introduction to what these repositories are f
 ## Lattice QCD Packages
 For hadron spectroscopy projects I've developed   
 
-- [SU(4) Workflow](https://github.com/chrisculver/su4workflow) - best place to start, high level usage of packages
-- [Correlation Matrix Manager](https://github.com/chrisculver/PyCorrelationMatrixManager) 
-- [Finite Volume Groups](https://github.com/chrisculver/FiniteVolumeGroups)
-- [Wick Contractions](https://github.com/chrisculver/WickContractions/)
+- [Correlation Matrix Manager (CMM)](https://github.com/chrisculver/PyCorrelationMatrixManager) - Best place to start, check out the examples directory.
+- [MesonBaryon Workflow](https://github.com/chrisculver/MesonBaryonWorkflow) - CMM for meson-baryon scattering.
+- [SU(4) Workflow](https://github.com/chrisculver/su4workflow) - CMM for SU(4) baryon-baryon scattering.
+- [Wick Contractions](https://github.com/chrisculver/WickContractions/) - Applies wicks theorem to LQCD operators.
+- [Finite Volume Groups](https://github.com/chrisculver/FiniteVolumeGroups) - Finite volume groups and their irreps.
 
 For a more optimized correlation matrix manager in C++ that is limited to multi-meson systems see [the original repo](https://github.com/chrisculver/CorrelationMatrixManager).
 
