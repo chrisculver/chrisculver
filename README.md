@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
-<h3 align="center">A physicist that likes developing software to solve physics problems.</h3>
+<h3 align="center">A physicist that likes developing software to solve problems.</h3>
 
 If you are interested in a physics introduction to what these repositories are for, see [my webpage](https://chrisculver.github.io/#about).
 
