@@ -6,7 +6,7 @@ If you are interested in a physics introduction to what these repositories are f
 ## Lattice QCD Packages
 For hadron spectroscopy projects I've developed   
 
-- [Correlation Matrix Manager (CMM)](https://github.com/chrisculver/PyCorrelationMatrixManager) - Best place to start, check out the examples directory.
+- [Correlation Matrix Manager (CMM)](https://github.com/chrisculver/PyCorrelationMatrixManager) - Best place to start, check out the [docs](https://pycorrelationmatrixmanager.readthedocs.io/en/latest/index.html).
 - [MesonBaryon Workflow](https://github.com/chrisculver/MesonBaryonWorkflow) - CMM for meson-baryon scattering.
 - [SU(4) Workflow](https://github.com/chrisculver/su4workflow) - CMM for SU(4) baryon-baryon scattering.
 - [Wick Contractions](https://github.com/chrisculver/WickContractions/) - Applies wicks theorem to LQCD operators.
